@@ -3,9 +3,12 @@
 
 ![cui_and_gui](https://user-images.githubusercontent.com/81731043/156089569-1bca11a8-364e-4fcf-b307-9066cea84f20.png)
 
-<h2>Linux Kernel and Distributions</h2>
 
 ![Linux_kernel](https://user-images.githubusercontent.com/81731043/156904482-b0427045-4cb3-49e8-874d-f69481a6e119.png)
+
+<h2>Unicode</h2>
+
+![Unicode](https://user-images.githubusercontent.com/81731043/157204682-378f279c-f4a0-4fef-b046-75d8395d2fc3.png)
 
 
 <h2>Virtual Machine (Host Type) </h2>
