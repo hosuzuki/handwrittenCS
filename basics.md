@@ -10,6 +10,10 @@
 
 ![Unicode](https://user-images.githubusercontent.com/81731043/157204682-378f279c-f4a0-4fef-b046-75d8395d2fc3.png)
 
+<h2>Doubly circularly linked list</h2>
+
+![doubly_circularly_linked_list](https://user-images.githubusercontent.com/81731043/157567863-14ee1933-2816-48f8-9c60-42fdfab23c4e.png)
+
 
 <h2>Virtual Machine (Host Type) </h2>
 
