@@ -4,4 +4,4 @@
 
 <h2>Port Number Communication</h2>
 
-![Port_number](https://user-images.githubusercontent.com/81731043/158720497-c7494b0f-a2a5-4371-ac14-02c297e3dcee.png)
+![Port_number](https://user-images.githubusercontent.com/81731043/158722701-958418a0-3ba5-41a2-be09-128162c6ebca.png)
