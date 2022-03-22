@@ -7,6 +7,4 @@
 ![Port_number](https://user-images.githubusercontent.com/81731043/158722701-958418a0-3ba5-41a2-be09-128162c6ebca.png)
 
 <h2>IP address (IPv4)</h2>
-![IP_address](https://user-images.githubusercontent.com/81731043/159391803-2e83a637-c26e-4961-918e-52bc066f3ab1.png)
-
-
+![IP_address](https://user-images.githubusercontent.com/81731043/159391897-b76c5a9c-4ac1-4feb-b75e-6b9312dfc76d.png)
